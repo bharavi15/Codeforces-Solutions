@@ -1,0 +1,4 @@
+*.class
+.vscode
+sol.js
+*.bat
